@@ -1,4 +1,4 @@
-package finance
+package biz
 
 type FinanceMgr struct {
 	financeCacheRepo  FinanceCacheRepo
